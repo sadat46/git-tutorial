@@ -32,7 +32,7 @@ now how to clone a repo.
 
 how to close repo
 1. go to command palet.
-2. type git close and select it.
+2. type git close repository and select it.
 3. go to the folder and delete git folder.
 
 
