@@ -1,0 +1,42 @@
+1. install git in you system.
+2. create a github account/make github profile.
+3. make a repository in github
+4. create a folder or go to the folder from or to where you want to clone the files.
+5. open the folder in vs code.
+6. ** check git is enabled or not in ur vs code.
+7. to do so go to settings and search for git enabled. make sure it is checked.
+8. copy the repository link.
+9. go to source control and clik + add.
+10. it will open the folder path from where you want to upload file.
+11. we can say that we area creating a bonding with folder and repo.
+12 it will sync all the files.
+13. write git commit message and commit.
+14. we have commited changes locally
+15. now to push commit to repo.
+16. for the first time only need to add remote.
+17. go to command pallet( shortcut is shift+ctl+p). and search for add remote.
+18. add a name and press enter.
+19. paste the git repo link which is copied and press enter.
+20.now push.
+21. it is done. to confirm check in git repo.
+22. to enable git ignore, select the file and select git ignore. it will not updated the changes in git.
+
+now how to clone a repo.
+1. go to git repo.
+2. copy the git repo link.
+3. go to vscode.
+4. go to command palet and search for git clone.
+5. paste the git repo link and press enter.
+6. show the folder where u want to clone it.
+7. it will start cloning .
+
+how to close repo
+1. go to command palet.
+2. type git close and select it.
+3. go to the folder and delete git folder.
+
+
+
+
+
+to do so go to git bash or bash from vscode and type git init to initialize.
